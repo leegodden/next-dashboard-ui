@@ -22,5 +22,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
+- [Lama Dev Youtube Channel](https://youtube.com/lamadev)
 - [Next.js](https://nextjs.org/learn)
+
+==================
+
+- [School Management Dashboard UI Design Tutorial]
+- `https://www.youtube.com/watch?v=myYlGLFxZas&list=PLj-4DlPRT48nCEYVkuvJAGYY5LCQJl3q0&index=1`
