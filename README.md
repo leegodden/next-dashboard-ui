@@ -25,7 +25,18 @@ To learn more about Next.js, take a look at the following resources:
 - [Lama Dev Youtube Channel](https://youtube.com/lamadev)
 - [Next.js](https://nextjs.org/learn)
 
-==================
+=====================================================================================================
 
-- [School Management Dashboard UI Design Tutorial]
+- [School Management Dashboard UI Design Tutorial] - React, Typescript, Prisma, Postgres, Docker
 - `https://www.youtube.com/watch?v=myYlGLFxZas&list=PLj-4DlPRT48nCEYVkuvJAGYY5LCQJl3q0&index=1`
+
+UPTO:
+`https://youtu.be/myYlGLFxZas?list=PLj-4DlPRT48nCEYVkuvJAGYY5LCQJl3q0&t=891`
+
+1. Setup Next.js with template github
+2. create folder/route structure
+3. Create seperate `sign-in` folder/route as this wont be using the dashboard layout
+4. create dashboard layout.tsx file and add layout TW styling
+
+5. create components folder and add Menu.tsx and NavBar.tsx
+6. Now alter our dashboard `layout.tsx` to incorporate our logo and its styles
