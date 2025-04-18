@@ -40,3 +40,7 @@ UPTO:
 
 5. create components folder and add Menu.tsx and NavBar.tsx
 6. Now alter our dashboard `layout.tsx` to incorporate our logo and its styles
+
+7. Add data, code & styles for `Menu.tsx`. Now import Menu into Dashboard `Layout.tsx`
+
+8. Now add Navbar code and styles and import into Dashboard `layout.tsx`
