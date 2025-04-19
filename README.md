@@ -44,3 +44,8 @@ UPTO:
 7. Add data, code & styles for `Menu.tsx`. Now import Menu into Dashboard `Layout.tsx`
 
 8. Now add Navbar code and styles and import into Dashboard `layout.tsx`
+
+9. Create Admin page with intial code and styles
+10. Add `UserCard.tsx` in components folder and import into Admin page
+11. Update tailwind.config.ts to include SkyBlue & SkyBlueLight colors
+12. Add code and styles for UserCard
